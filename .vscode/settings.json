@@ -1,0 +1,7 @@
+{
+  "window.commandCenter": false,
+  "workbench.editor.showTabs": "none",
+  "workbench.editor.editorActionsLocation": "hidden",
+  "workbench.layoutControl.enabled": false,
+  "workbench.activityBar.location": "hidden"
+}
